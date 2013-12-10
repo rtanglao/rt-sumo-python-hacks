@@ -1,6 +1,7 @@
 #!/usr/local/bin/python
 # coding: utf-8
 from bs4 import BeautifulSoup
+import bs4
 import urllib2
 import time
 import sys
@@ -19,7 +20,13 @@ for child in soup.find_all('h3'):
           html = response.read()
           s2 = BeautifulSoup(html)
           main_content  = s2.findAll("div", { "class" : "main-content" })
-          first_p  = main_content[0].p.contents[0].rstrip()
+          if  type (main_content[0].p.contents[0]) is bs4.element.NavigableString:
+              first_p  = main_content[0].p.contents[0].rstrip()
+          else:
+              if type(main_content[0].p.contents[0].contents) is list:
+                  first_p = main_content[0].p.contents[0].contents[0].rstrip()
+              else:
+                  first_p  = main_content[0].p.contents[0].contents.rstrip()
           first_75 = first_p[:75] + (first_p[75:] and '..')
           time_str = s2.find_all('time')[0]['datetime']
           t2 = dateutil.parser.parse(time_str)
