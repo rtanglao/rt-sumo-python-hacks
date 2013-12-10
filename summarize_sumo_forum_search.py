@@ -2,8 +2,10 @@
 # coding: utf-8
 #rtanglao-09392:rt-sumo-python-hacks rtanglao$ echo $LANG
 # en_CA.UTF-8
+# BEGIN kludge from http://stackoverflow.com/questions/5109970/linux-python-encoding-a-unicode-string-for-print and https://wiki.python.org/moin/PrintFails
 import sys, codecs, locale;
 sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout);
+# END KLUDGE
 
 from bs4 import BeautifulSoup
 import bs4
