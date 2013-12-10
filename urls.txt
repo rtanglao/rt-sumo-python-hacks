@@ -1,0 +1,10 @@
+page 1
+
+https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date=12%2F10%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2
+
+page 2 
+
+https://support.mozilla.org/en-US/search?num_voted=0&a=1&product=mobile&created=1&updated=0&sortby=2&w=2&created_date=12%2F10%2F2013&page=2
+
+page 10 (last url of mon 9 dec)
+https://support.mozilla.org/en-US/search?num_voted=0&a=1&product=mobile&created=1&updated=0&sortby=2&w=2&created_date=12%2F10%2F2013&page=10
