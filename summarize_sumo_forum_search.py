@@ -23,9 +23,9 @@ for child in soup.find_all('h3'):
           first_75 = first_p[:75] + (first_p[75:] and '..')
           time_str = s2.find_all('time')[0]['datetime']
           t2 = dateutil.parser.parse(time_str)
-          date = t2.strftime("%a %B %d %Y %I:%m %p")
+          date = t2.strftime("%a %b %d %Y %I:%m %p")
           #print "URL:", url
           #print "title:", title[0]
           #print "first 75:", first_75
-          print "1. %s [%s](%s)--%s" % (date, title[0], url, first_75)
+          print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
 
