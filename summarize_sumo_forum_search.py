@@ -1,5 +1,10 @@
 #!/usr/local/bin/python
 # coding: utf-8
+#rtanglao-09392:rt-sumo-python-hacks rtanglao$ echo $LANG
+# en_CA.UTF-8
+import sys, codecs, locale;
+sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout);
+
 from bs4 import BeautifulSoup
 import bs4
 import urllib2
@@ -27,12 +32,13 @@ for child in soup.find_all('h3'):
                   first_p = main_content[0].p.contents[0].contents[0].rstrip()
               else:
                   first_p  = main_content[0].p.contents[0].contents.rstrip()
-          first_75 = first_p[:75] + (first_p[75:] and '..')
+          first_75 = first_p[:75] + (first_p[75:] and u'..')
           time_str = s2.find_all('time')[0]['datetime']
           t2 = dateutil.parser.parse(time_str)
           date = t2.strftime("%a %b %d %Y %I:%m %p")
           #print "URL:", url
           #print "title:", title[0]
           #print "first 75:", first_75
+          print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
           print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
 
