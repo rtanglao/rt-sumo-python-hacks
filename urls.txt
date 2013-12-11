@@ -8,3 +8,7 @@ https://support.mozilla.org/en-US/search?num_voted=0&a=1&product=mobile&created=
 
 page 10 (last url of mon 9 dec)
 https://support.mozilla.org/en-US/search?num_voted=0&a=1&product=mobile&created=1&updated=0&sortby=2&w=2&created_date=12%2F10%2F2013&page=10
+
+last url of tue 10 dec
+
+./summarize_sumo_forum_search.py "https://support.mozilla.org/en-US/search?num_voted=0&a=1&product=mobile&created=1&updated=0&sortby=2&w=2&created_date=12%2F10%2F2013&page=16" >9dec2013.page16.md
