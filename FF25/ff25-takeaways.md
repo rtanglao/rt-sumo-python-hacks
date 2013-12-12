@@ -1,6 +1,6 @@
 #tl;dr
 
-If we can create a user friendlysync on all three products and keep our open web user experience ahead of others (which includes promoting open web standards so websites and apps work everywhere) and make the mobile video experience work splendidly without flash, then our users will continue to be delighted.
+If we can create a user friendly sync on all our products and keep our open web user experience ahead of others (which includes promoting open web standards so websites and apps work everywhere) and make the mobile video experience work splendidly without flash, then our users will continue to be delighted.
 
 # Positives
 
@@ -9,9 +9,9 @@ No major bugs without viable workarounds (except for flash video on KitKat). Use
 
 # Issues
 
-Webcompatibility is something we need to educate users about! As well as developers.
+Web compatibility is something we need to educate users about! As well as developers.
 
-Webcompatibility, user experience, sync and video/flash or otherwise are the top issues.
+Web compatibility, user experience, sync and video/flash or otherwise are the top issues.
 
 The User Experience around bookmarks, top sites, etc is confusing for many users.. Top
 sites is not something users understand intuitively; instead some even refer it it incorrectly as a top list. De-emphasize this or perhaps this is something that will go away as people get familiar with the top sites concept from desktop? 
