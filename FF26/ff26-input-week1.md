@@ -4,3 +4,4 @@
 # Selected Verbatims
 
 1. **2013-12-12T10:30:51** [I do like it but I do wish it was more like the desktop version since I use on a tablet, I would like to be able to set a home page, and I do not like having to check the request a desktop site every time I open a new tab](https://input.mozilla.org/en-US/dashboard/response/4112186)
+2. **2013-12-12T12:14:34** [challenged with web cast content requiring flash player not compatible with Android.](https://input.mozilla.org/en-US/dashboard/response/4112333)
