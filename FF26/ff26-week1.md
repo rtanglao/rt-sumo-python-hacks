@@ -1,4 +1,4 @@
-1. **Thu Dec 12 2013 09:12 AM** [what is your name](https://support.mozilla.org/en-US/questions/980213?esab=a&s=&r=0&as=s "my name is raja husain")
+1. ~~**Thu Dec 12 2013 09:12 AM** [what is your name](https://support.mozilla.org/en-US/questions/980213?esab=a&s=&r=0&as=s "my name is raja husain"), #offtopic~~
 1. **Thu Dec 12 2013 07:12 AM** [O firefox abre noticacoes de](https://support.mozilla.org/en-US/questions/980192?esab=a&s=&r=1&as=s "Trabalho com companhias de seguro e preciso estar conectado no site deles d..")
 2. 1. **Wed Dec 11 2013 11:12 PM** [why massage](https://support.mozilla.org/en-US/questions/980163?esab=a&s=&r=0&as=s "it is ok for relaxation")
 1. **Wed Dec 11 2013 11:12 PM** [why indexeddb is not working in versions > android 4.2 ?](https://support.mozilla.org/en-US/questions/980160?esab=a&s=&r=1&as=s "upto androif 4.0.2 indexeddb is supporting that mean we can fatch data from..")
