@@ -1,6 +1,6 @@
 #tl;dr
 
-If we can create a friendly sync on all 3 products and keep our open web user experience ahead of others (which includes promoting open web standards so websites and apps work everywhere) and make the mobile video experience work splendidly without flash, then our users will continue to be delighted.
+If we can create a user friendlysync on all three products and keep our open web user experience ahead of others (which includes promoting open web standards so websites and apps work everywhere) and make the mobile video experience work splendidly without flash, then our users will continue to be delighted.
 
 # Positives
 
@@ -20,7 +20,7 @@ altogether as part of upcoming "My lists" feature.
 
 Flash video is still a nightmare. Shumway could help but only if it degrades gracefully since there is no way we can play back all the flash video on initial Shumway release.
 
-Finally, sync is hard to setup, hard to understand (users think it is a backup service) and hard to restore or to setup with a new device or desktop.
+Finally, sync is hard to setup, hard to understand (users think it is a backup service and don't understand our current account-less implementation) and hard to restore or to setup with a new device or desktop.
 
 User Education can help with all of the above.
 
