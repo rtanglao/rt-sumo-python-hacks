@@ -5,7 +5,7 @@
 1. **Fri Dec 13 2013 05:12 AM** [Firefox Remote Debugging does not work](https://support.mozilla.org/en-US/questions/980309?esab=a&s=&r=4&as=s "My hosting machine is Ubuntu 13.10 64 bit and my mobile device is Vodafone ..")
 1. **Thu Dec 12 2013 05:12 PM** [No problem](https://support.mozilla.org/en-US/questions/980262?esab=a&s=&r=5&as=s "真的没问题")
 1. **Thu Dec 12 2013 05:12 PM** [Unable to Install Flash for Firefox for Android](https://support.mozilla.org/en-US/questions/980258?esab=a&s=&r=6&as=s "Cold someone provide me working instructions for downloading the flash plug..")
-1. ~~**Thu Dec 12 2013 02:12 PM** [img src=x onerror=alert(0)/](https://support.mozilla.org/en-US/questions/980247?esab=a&s=&r=7&as=s ""), #offtopic ~~
+1. ~~**Thu Dec 12 2013 02:12 PM** [img src=x onerror=alert(0)/](https://support.mozilla.org/en-US/questions/980247?esab=a&s=&r=7&as=s "d"), #offtopic~~
 1. **Thu Dec 12 2013 02:12 PM** [I want to sync my bookmarks from my android phone to my laptop](https://support.mozilla.org/en-US/questions/980244?esab=a&s=&r=8&as=s "I tried looking in the support section on mozilla however the directions it..")
 1. **Thu Dec 12 2013 12:12 PM** [Can't get the "Complete action using" choice back](https://support.mozilla.org/en-US/questions/980235?esab=a&s=&r=9&as=s "When using Firefox mobile it used to ask "Complete action using" and then g..")
 1. ~~**Thu Dec 12 2013 09:12 AM** [what is your name](https://support.mozilla.org/en-US/questions/980213?esab=a&s=&r=0&as=s "my name is raja husain"), #offtopic~~
