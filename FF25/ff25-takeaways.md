@@ -18,7 +18,7 @@ sites is not something users understand intuitively; instead some even refer it 
 Or have the ability to disable or remove Top Sites
 altogether as part of upcoming "My lists" feature.
 
-Flash video is still a nightmare. Shumway could help but only if it degrades gracefully since there is no way we can play back all the flash video on initial Shumway release.
+Flash video is still an important issue. Shumway could help but only if it degrades gracefully since there is no way we can play back all the flash video on initial Shumway release.
 
 Finally, sync is hard to setup, hard to understand (users think it is a backup service and don't understand our current account-less implementation) and hard to restore or to setup with a new device or desktop.
 
