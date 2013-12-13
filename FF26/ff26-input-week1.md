@@ -14,3 +14,6 @@
 8. **2013-12-11T21:53:57** [I get occasional crashes from time to time; other than that I love it.](https://input.mozilla.org/en-US/dashboard/response/4111282)
 9. **2013-12-11T16:40:22** [I'm quite sick of random text-size changes on sites like reddit. I mostly use Firefox over chrome because ff is not quite as bad, but it's still annoying. Apparently it's supposed to help adjust text for small screens; I don't care. It's not worth it. Other than that, it's been great.](https://input.mozilla.org/en-US/dashboard/response/4110970)
 10. **2013-12-11T14:35:07**  [there is no Exit button!!? so I have to tap several times exit... but if I opened many sites, I have to click too many time exit button!? and there is no straight back to Home page!](https://input.mozilla.org/en-US/dashboard/response/4110836)
+11. **2013-12-11T15:52:00 [How do I delete history?](https://input.mozilla.org/en-US/dashboard/response/4110921), #ux, #history
+12. **2013-12-11T14:14:54 [you tube videos turn the screen black and don't play](https://input.mozilla.org/en-US/dashboard/response/4110812), #youtube, #video
+
