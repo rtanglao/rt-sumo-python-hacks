@@ -3,7 +3,7 @@
 1. ~~**Fri Dec 13 2013 06:12 AM** [How Much](https://support.mozilla.org/en-US/questions/980314?esab=a&s=&r=2&as=s "How Much does it cost")~~
 1. ~~**Fri Dec 13 2013 06:12 AM** [Does It Cost](https://support.mozilla.org/en-US/questions/980313?esab=a&s=&r=3&as=s "How much is this going to cost")~~
 1. **Fri Dec 13 2013 05:12 AM** [Firefox Remote Debugging does not work](https://support.mozilla.org/en-US/questions/980309?esab=a&s=&r=4&as=s "My hosting machine is Ubuntu 13.10 64 bit and my mobile device is Vodafone ..")
-1. **Thu Dec 12 2013 05:12 PM** [No problem](https://support.mozilla.org/en-US/questions/980262?esab=a&s=&r=5&as=s "真的没问题")
+1. ~~**Thu Dec 12 2013 05:12 PM** [No problem](https://support.mozilla.org/en-US/questions/980262?esab=a&s=&r=5&as=s "真的没问题")~~
 1. **Thu Dec 12 2013 05:12 PM** [Unable to Install Flash for Firefox for Android](https://support.mozilla.org/en-US/questions/980258?esab=a&s=&r=6&as=s "Cold someone provide me working instructions for downloading the flash plug..")
 1. ~~**Thu Dec 12 2013 02:12 PM** [img src=x onerror=alert(0)/](https://support.mozilla.org/en-US/questions/980247?esab=a&s=&r=7&as=s "d"), #offtopic~~
 1. **Thu Dec 12 2013 02:12 PM** [I want to sync my bookmarks from my android phone to my laptop](https://support.mozilla.org/en-US/questions/980244?esab=a&s=&r=8&as=s "I tried looking in the support section on mozilla however the directions it..")
