@@ -1,4 +1,4 @@
-Based on FF25 support forum uestions:
+Based on FF25 support forum questions:
 
 * Create a user friendly sync on all our products.
 * Keep our open web user experience ahead of others by making Top Sites and bookmarks more awesome.
