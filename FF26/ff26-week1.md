@@ -16,6 +16,7 @@
 1. **Sat Dec 14 2013 11:12 AM** [why have my homepage bookmark icons now changed to firefox icons](https://support.mozilla.org/en-US/questions/980441?esab=a&s=&r=6&as=s "am running samsung tab2 and homepage icons became firefox icons overnight....")
 1. **Sat Dec 14 2013 09:12 AM** [How do I save images ?](https://support.mozilla.org/en-US/questions/980424?esab=a&s=&r=7&as=s "i can get no option to save images")
 1. **Sat Dec 14 2013 03:12 AM** [Sync doesnt work](https://support.mozilla.org/en-US/questions/980406?esab=a&s=&r=8&as=s "Hi,")
+1. **Fri Dec 13 2013 08:12 PM** [HTML5 videos fullscreen support for Mozilla Android](https://support.mozilla.org/en-US/questions/980389?esab=a&s=&r=9&as=s "When trying to play HTML5 videos embedded on a webpage in Firefox Android, ..")
 1. **Fri Dec 13 2013 09:12 AM** [change picture profil](https://support.mozilla.org/en-US/questions/980331?esab=a&s=&r=0&as=s "how change picture profil..")
 1. ~~**Fri Dec 13 2013 08:12 AM** [Quando esta previsto uma atualização do FireFox para o uso de musicas mp3 como toque de celular, função copiar e colar nas mensagens, e whatsapp?????](https://support.mozilla.org/en-US/questions/980321?esab=a&s=&r=1&as=s "Preciso do Wattss , copiar e colar mensagens e musica mp3 como toque!!!!"), #ffosquestion~~
 1. ~~**Fri Dec 13 2013 06:12 AM** [How Much](https://support.mozilla.org/en-US/questions/980314?esab=a&s=&r=2&as=s "How Much does it cost")~~
