@@ -16,3 +16,21 @@ last url of tue 10 dec
 firefox 26 dec 13 2013 AM
 
 ../summarize_sumo_forum_search.py "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date=14%2F10%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2" > ff26-11dec2013.13decAM.md
+
+firefox 16 dec 2013 AM (catching up from the weekend)
+
+dec 26 AM
+../summarize_sumo_forum_search.py "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date=12%2F16%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2" > ff26-11dec2013.16decAM.md
+
+catching up on sat dec 14
+
+../summarize_sumo_forum_search.py 
+"https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=
+&q_tags=&product=mobile&created=1&created_date=12%2F15%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2" > 
+ff26-11dec2013.16decAM.sat.md
+
+catching up on fri dec 13
+
+../summarize_sumo_forum_search.py "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1
+&created_date=12%2F14%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2" 
+> ff26-11dec2013.16decAM.fri.md
