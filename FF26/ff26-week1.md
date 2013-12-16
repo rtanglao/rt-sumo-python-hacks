@@ -17,6 +17,12 @@
 1. **Sat Dec 14 2013 09:12 AM** [How do I save images ?](https://support.mozilla.org/en-US/questions/980424?esab=a&s=&r=7&as=s "i can get no option to save images")
 1. **Sat Dec 14 2013 03:12 AM** [Sync doesnt work](https://support.mozilla.org/en-US/questions/980406?esab=a&s=&r=8&as=s "Hi,")
 1. **Fri Dec 13 2013 08:12 PM** [HTML5 videos fullscreen support for Mozilla Android](https://support.mozilla.org/en-US/questions/980389?esab=a&s=&r=9&as=s "When trying to play HTML5 videos embedded on a webpage in Firefox Android, ..")
+1. **Fri Dec 13 2013 04:12 PM** [how do I clear my history in the android firefox browser.s](https://support.mozilla.org/en-US/questions/980369?esab=a&s=&r=1&as=s "can't find a way to delete the history listings on my android phone withou ..")
+1. **Fri Dec 13 2013 02:12 PM** [how do I clear my history in the android firefox browser.](https://support.mozilla.org/en-US/questions/980361?esab=a&s=&r=2&as=s "can't.")
+1. **Fri Dec 13 2013 11:12 AM** [Latest Firefox version has display problems](https://support.mozilla.org/en-US/questions/980353?esab=a&s=&r=3&as=s "locking this thread as duplicate, please continue at")
+1. **Fri Dec 13 2013 11:12 AM** [Latest Firefox version has display problems](https://support.mozilla.org/en-US/questions/980347?esab=a&s=&r=4&as=s "Hello guys,
+There is a major issue with the latest Firefox version for Andr..")
+1. **Fri Dec 13 2013 10:12 AM** [How do l download Videos to my phone ?](https://support.mozilla.org/en-US/questions/980340?esab=a&s=&r=5&as=s "my phone can't download videos")
 1. **Fri Dec 13 2013 09:12 AM** [change picture profil](https://support.mozilla.org/en-US/questions/980331?esab=a&s=&r=0&as=s "how change picture profil..")
 1. ~~**Fri Dec 13 2013 08:12 AM** [Quando esta previsto uma atualização do FireFox para o uso de musicas mp3 como toque de celular, função copiar e colar nas mensagens, e whatsapp?????](https://support.mozilla.org/en-US/questions/980321?esab=a&s=&r=1&as=s "Preciso do Wattss , copiar e colar mensagens e musica mp3 como toque!!!!"), #ffosquestion~~
 1. ~~**Fri Dec 13 2013 06:12 AM** [How Much](https://support.mozilla.org/en-US/questions/980314?esab=a&s=&r=2&as=s "How Much does it cost")~~
