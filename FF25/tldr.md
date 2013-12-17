@@ -32,6 +32,8 @@ Fortunately all of the above is covered by our Mobile roadmap and other Mozilla 
 5. [Hi, whenever I open a new tab it shows a list of my "top sites" which can be anything really, even if i just searched them once before, they stay there. How can i hide or delete these?](https://support.mozilla.org/en-US/questions/977876)
 6. [how can I sort bookmarks on my phone?](https://support.mozilla.org/en-US/questions/979489)
 7. [It is possible to remove an individual site from the Top List but not delete all sites at once. If one of the Top List sites is also a bookmark it is impossible to remove it. It is impossible to stop the Top List being generated.](https://support.mozilla.org/en-US/questions/976068)
+8. [which firefox version is best for a Samsung Mobile(Gs4),among others things to use adobe Flash Player](https://support.mozilla.org/en-US/questions/977678)
+
 #### Data Sources
 
 * [FF25 EN-US KB article Page Views](https://docs.google.com/a/mozilla.com/spreadsheet/ccc?key=0AnUgj7CpGlB0dDZ5YXVMSGEwMnh5d1cyUlJCNF84dVE&usp=sharing#gid=0) 
