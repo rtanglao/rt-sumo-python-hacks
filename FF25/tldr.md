@@ -28,6 +28,12 @@ Fortunately all of the above is covered by our Mobile roadmap and other Mozilla 
 #### Data Sources
 
 * [FF25 EN-US KB article Page Views](https://docs.google.com/a/mozilla.com/spreadsheet/ccc?key=0AnUgj7CpGlB0dDZ5YXVMSGEwMnh5d1cyUlJCNF84dVE&usp=sharing#gid=0) 
+* [FF25 Week 1 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week1.with.tags.md)
+* [FF25 Week 2 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week2.with.tags.md)
+* [FF25 Week 3 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week3.with.tags.md)
+* [FF25 Week 4 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week4.with.tags.md)
+* [FF25 Week 5 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week5.with.tags.md)
+* [FF25 Week 6 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week6.with.tags.md)
 
 
 
