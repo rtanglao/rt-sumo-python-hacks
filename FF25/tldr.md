@@ -1,12 +1,16 @@
 #### Firefox 25 AndroidSupport Forum and KB Article Summary
 
 * 320 Questions on the EN-US Forum (62+55+63+52+50+48)
-* Sync Articles are the most popular in terms of EN-US page views, top 5 also has video and security articles:
-    * Android Add a Device 100K
-    * find-code-to-add-device-to-firefox-sync 69K
-    * how-do-i-set-up-firefox-sync 65K
-    * how-do-i-watch-flash-videos-firefox-android 65K
-    * how-does-phishing-and-malware-protection-work 63K
+* Sync Articles are the most popular in terms of EN-US page views, top 10 also has video and security articles:
+    1. Android Add a Device 100K
+    1. find-code-to-add-device-to-firefox-sync 69K
+    1. how-do-i-set-up-firefox-sync 65K
+    1. how-do-i-watch-flash-videos-firefox-android 65K
+    1. how-does-phishing-and-malware-protection-work 63K
+    1. how-do-i-manage-my-firefox-sync-account  61K
+    1. will-firefox-work-my-mobile-device 59K
+    1. add-ons-cause-issues-are-on-blocklist 40K
+    1. is-firefox-available-iphone-or-ipad
 
 
 #### Takeaways Based on FF25 support forum questions:
