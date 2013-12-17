@@ -1,6 +1,6 @@
 #### Firefox 25 Android Support Forum and KB Article Summary
 
-* 320 Questions on the EN-US Forum (62+55+63+52+50+48)
+* 320 Questions on the EN-US Forum (62+55+63+52+50+48), 53 Solved (many of the unsolved are awaiting troubleshooting information from the original poster or the poster never replied to a reply or set a reply to solved)
 * Sync Articles are the most popular in terms of EN-US page views, top 10 also has video and security articles:
     1. Add a Device to Firefox Sync 100K
     1. find-code-to-add-device-to-firefox-sync 69K
