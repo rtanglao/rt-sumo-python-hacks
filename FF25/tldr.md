@@ -2,7 +2,7 @@
 
 * 320 Questions on the EN-US Forum (62+55+63+52+50+48)
 * Sync Articles are the most popular in terms of EN-US page views, top 10 also has video and security articles:
-    1. Android Add a Device 100K
+    1. Add a Device to Firefox Sync 100K
     1. find-code-to-add-device-to-firefox-sync 69K
     1. how-do-i-set-up-firefox-sync 65K
     1. how-do-i-watch-flash-videos-firefox-android 65K
