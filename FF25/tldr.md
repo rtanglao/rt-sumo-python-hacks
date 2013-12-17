@@ -1,4 +1,4 @@
-#### Firefox 25 AndroidSupport Forum and KB Article Summary
+#### Firefox 25 Android Support Forum and KB Article Summary
 
 * 320 Questions on the EN-US Forum (62+55+63+52+50+48)
 * Sync Articles are the most popular in terms of EN-US page views, top 10 also has video and security articles:
