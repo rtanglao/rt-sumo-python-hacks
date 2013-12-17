@@ -1,0 +1,3 @@
+1. **Tue Dec 17 2013 05:12 AM** [how do I turn off Mobil mode.](https://support.mozilla.org/en-US/questions/980689?esab=a&s=&r=0&as=s "I have a nexus 10, which with a 10" screen is not really a mobile device.  ..")
+1. **Tue Dec 17 2013 05:12 AM** [how do I find my recovery key on my android](https://support.mozilla.org/en-US/questions/980687?esab=a&s=&r=1&as=s "I cannot find my android recovery to synchronize")
+1. **Tue Dec 17 2013 02:12 AM** [we want firefox for window 8 phone please](https://support.mozilla.org/en-US/questions/980680?esab=a&s=&r=2&as=s "Please develop Firefox app for Lumia")
