@@ -43,6 +43,6 @@ Fortunately all of the above is covered by our Mobile roadmap and other Mozilla 
 * [FF25 Week 4 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week4.with.tags.md)
 * [FF25 Week 5 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week5.with.tags.md)
 * [FF25 Week 6 EN-US Forum](https://github.com/rtanglao/rt-sumo-python-hacks/blob/master/FF25/ff25.week6.with.tags.md)
-
+* [support.mozilla.org advanced search for solved ff android questions](https://support.mozilla.org/en-US/search?q=&is_solved=1&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=2&created_date=10%2F28%2F2013&updated=0&updated_date=&sortby=2&a=1&w=2)
 
 
