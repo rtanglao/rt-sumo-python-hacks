@@ -10,7 +10,8 @@
     1. how-do-i-manage-my-firefox-sync-account  61K
     1. will-firefox-work-my-mobile-device 59K
     1. add-ons-cause-issues-are-on-blocklist 40K
-    1. is-firefox-available-iphone-or-ipad
+    1. is-firefox-available-iphone-or-ipad 28K
+    2. android-app-stores-where-you-can-download-firefox 26K
 
 
 #### Takeaways Based on FF25 support forum questions:
