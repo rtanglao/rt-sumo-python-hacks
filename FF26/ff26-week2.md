@@ -8,6 +8,12 @@
 1. **Tue Dec 17 2013 06:12 PM** [Firefox](https://support.mozilla.org/en-US/questions/980780?esab=a&s=&r=7&as=s "what is mean by Firefox")
 1. **Tue Dec 17 2013 06:12 PM** [How can I stop firefox (mobile) on android from retaining form data?](https://support.mozilla.org/en-US/questions/980779?esab=a&s=&r=8&as=s "I have an android based kiosk used by patients for appointment check in.  F..")
 1. **Tue Dec 17 2013 05:12 PM** [I want to install Zaw Gyi fonts on my google nexus 7 by using firefox](https://support.mozilla.org/en-US/questions/980777?esab=a&s=&r=9&as=s "I am using google nexus 7 and would like to install burmese font (myanmar f..")
+1. **Tue Dec 17 2013 05:12 PM** [firefox Mozilla for WP8 phone?](https://support.mozilla.org/en-US/questions/980773?esab=a&s=&r=10&as=s "Is thus available for WP8 [phone)????")
+1. **Tue Dec 17 2013 05:12 PM** [how do I transfer my bookmarks from my laptop to my smartphone](https://support.mozilla.org/en-US/questions/980770?esab=a&s=&r=11&as=s "l have an Samsung galaxy exhibit")
+1. **Tue Dec 17 2013 04:12 PM** [how do I transfer my bookmarks from my laptop to my smartphone](https://support.mozilla.org/en-US/questions/980766?esab=a&s=&r=12&as=s "I own a Samsung galaxy exhibit")
+1. **Tue Dec 17 2013 02:12 PM** [how can we download songs and videos on sound cloud while using Firefox mozilla](https://support.mozilla.org/en-US/questions/980754?esab=a&s=&r=13&as=s "how can I downooad songs on sound cloud")
+1. **Tue Dec 17 2013 02:12 PM** [top sites](https://support.mozilla.org/en-US/questions/980752?esab=a&s=&r=14&as=s "When you touch the address bar it brings up a top sites list. how do you de..")
+1. **Tue Dec 17 2013 01:12 PM** [Porque não tem o botão sair?](https://support.mozilla.org/en-US/questions/980747?esab=a&s=&r=15&as=s "Acho desnecessário ele ficar sempre rodando, consome muita memória ram.")
 1. **Tue Dec 17 2013 05:12 AM** [how do I turn off Mobil mode.](https://support.mozilla.org/en-US/questions/980689?esab=a&s=&r=0&as=s "I have a nexus 10, which with a 10" screen is not really a mobile device.  .."), #nexus10, #requestdesktopsite, #webcompat
 1. **Tue Dec 17 2013 05:12 AM** [how do I find my recovery key on my android](https://support.mozilla.org/en-US/questions/980687?esab=a&s=&r=1&as=s "I cannot find my android recovery to synchronize"), #sync, #syncrecovery
 1. **Tue Dec 17 2013 02:12 AM** [we want firefox for window 8 phone please](https://support.mozilla.org/en-US/questions/980680?esab=a&s=&r=2&as=s "Please develop Firefox app for Lumia"), #windowsphone,
