@@ -1,7 +1,7 @@
 1. **Sat Dec 21 2013 03:12 PM** [problem creating bookmarks](https://support.mozilla.org/en-US/questions/981167?esab=a&s=&r=0&as=s "Using FF26.0.1 on Samsung Galaxy Note 3. I've used FF on my PC for years bu..")
 1. **Sat Dec 21 2013 10:12 AM** [How can I create Bookmarks folders?](https://support.mozilla.org/en-US/questions/981050?esab=a&s=&r=1&as=s "I like to group similar bookmarks together for ease of navigation. Without ..")
 1. **Sat Dec 21 2013 09:12 AM** [Hindi](https://support.mozilla.org/en-US/questions/981137?esab=a&s=&r=2&as=s "duplicate of")
-1. **Sat Dec 21 2013 09:12 AM** [Hindi](https://support.mozilla.org/en-US/questions/981136?esab=a&s=&r=3&as=s "my mobile hindi no Sapport")
+1. **Sat Dec 21 2013 09:12 AM** [Hindi](https://support.mozilla.org/en-US/quesmoztions/981136?esab=a&s=&r=3&as=s "my mobile hindi no Sapport")
 1. **Sat Dec 21 2013 09:12 AM** [Lost tabs and history after update-version 26 android](https://support.mozilla.org/en-US/questions/981135?esab=a&s=&r=4&as=s "hello")
 1. **Sat Dec 21 2013 08:12 AM** [WebRTC h264 codec availability in Firefox desktop and Android](https://support.mozilla.org/en-US/questions/981134?esab=a&s=&r=5&as=s "Following the announcement of Cisco h264 availability for WebRTC in Firefox..")
 1. **Sat Dec 21 2013 08:12 AM** [can't find "General" Tab on Android to set Tabs on opening browser ?](https://support.mozilla.org/en-US/questions/981129?esab=a&s=&r=6&as=s "Trying to set 2 Tabs as Home Pages when opening Firefox in Android - instru..")
@@ -22,7 +22,7 @@ I have a Galaxy Note 3 which it's display resolution is 1920x1080.
 If..")
 1. **Fri Dec 20 2013 09:12 AM** [How do I erase a saved site from my home page?](https://support.mozilla.org/en-US/questions/981024?esab=a&s=&r=18&as=s "I can't seem to erase one of the sites that was saved to my home page. I pe..")
 1. **Fri Dec 20 2013 06:12 AM** [Not able to download videos although flash video downloader is installed, kindly tell the reason](https://support.mozilla.org/en-US/questions/980985?esab=a&s=&r=19&as=s "Not able to download videos although flash video downloader is installed, k..")
-1. **Fri Dec 20 2013 05:12 AM** [mozilla.org](https://support.mozilla.org/en-US/questions/981002?esab=a&s=&r=20&as=s "firefox")
+1. ~~**Fri Dec 20 2013 05:12 AM** [mozilla.org](https://support.mozilla.org/en-US/questions/981002?esab=a&s=&r=20&as=s "firefox"), #detailsMissing, #offTopic~~
 1. **Fri Dec 20 2013 04:12 AM** [How do i remove sites from my top sites. I hit the menu button and try to unpin them but so far no success anx its driving me nuts lol](https://support.mozilla.org/en-US/questions/980994?esab=a&s=&r=21&as=s "Trying to unpin or remove sites from " top sites"")
 1. **Thu Dec 19 2013 07:12 PM** [Why can't I download anything to my phone? I have tried everything](https://support.mozilla.org/en-US/questions/980970?esab=a&s=&r=22&as=s "I have tried everything from clearing my data to resetting my phone and now.."1. **Thu Dec 19 2013 04:12 PM** [Unable to synch](https://support.mozilla.org/en-US/questions/980964?esab=a&s=&r=1&as=s "How do I find the Firefox synch button?")
 1. **Thu Dec 19 2013 11:12 AM** [logging in issues](https://support.mozilla.org/en-US/questions/980933?esab=a&s=&r=2&as=s "tryimg to log in. am told that password and username is ok. tried many time..")
