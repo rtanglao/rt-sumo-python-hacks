@@ -8,6 +8,15 @@
 1. **Thu Dec 19 2013 12:12 AM** [can't see or hear video youtube anymore,  can anyone help?](https://support.mozilla.org/en-US/questions/980891?esab=a&s=&r=7&as=s "started out fine, then I lost video...then audio. desired video comes up bu..")
 1. **Wed Dec 18 2013 07:12 PM** [Firefox](https://support.mozilla.org/en-US/questions/980780?esab=a&s=&r=8&as=s "what is mean by Firefox")
 1. **Wed Dec 18 2013 06:12 PM** [XPCOM](https://support.mozilla.org/en-US/questions/980881?esab=a&s=&r=9&as=s "Can someone please help me ...I keep getting COULDN'T LOAD XPCOM when ever ..")
+1. **Wed Dec 18 2013 05:12 PM** [Ugly Firefox for Android icon on Kindle Fire HDX 8.9](https://support.mozilla.org/en-US/questions/980879?esab=a&s=&r=10&as=s "I have much praise for this browser which I have sideloaded onto my tablet...")
+1. **Wed Dec 18 2013 02:12 PM** [Why is this happening?](https://support.mozilla.org/en-US/questions/980868?esab=a&s=&r=11&as=s "This occurs when not connected to wifi as that is too fast to see it happen..")
+1. **Wed Dec 18 2013 02:12 PM** [Why am is this happening? http://imgur.com/VSH7x58](https://support.mozilla.org/en-US/questions/980867?esab=a&s=&r=12&as=s "This only happens when not connected to wifi as it's too fast for me to see..")
+1. **Wed Dec 18 2013 02:12 PM** [Fennec build fails with Permission Denied Error android-4.4 execvp](https://support.mozilla.org/en-US/questions/980862?esab=a&s=&r=13&as=s "While attempting to build Fennec, the following error occurs, right after p..")
+1. **Wed Dec 18 2013 01:12 PM** [Can't see all the 9 pictures on page.](https://support.mozilla.org/en-US/questions/980859?esab=a&s=&r=14&as=s "There are 9 pictures on this site in the link below, and I only see one?
+It..")
+1. **Wed Dec 18 2013 12:12 PM** [Migrating to the official version from the beta?](https://support.mozilla.org/en-US/questions/980850?esab=a&s=&r=15&as=s "Hi, 
+I downloaded the beta version lately, and I have used for a while. How..")
+1. **Wed Dec 18 2013 12:12 PM** [Migrating to the official version from the beta?](https://support.mozilla.org/en-US/questions/980849?esab=a&s=&r=16&as=s "(this post was accidentally sent incomplete, there was no edit link in the ..")
 1. **Wed Dec 18 2013 07:12 AM** [my android is not supporting my browser](https://support.mozilla.org/en-US/questions/980822?esab=a&s=&r=0&as=s "App won't open")
 1. **Wed Dec 18 2013 05:12 AM** [how to play flash content on Sony experia sp](https://support.mozilla.org/en-US/questions/980813?esab=a&s=&r=1&as=s "I'm running jellybean 4.1.2 trying to play On demand channels such as deman..")
 1. **Wed Dec 18 2013 02:12 AM** [prit application save as .aspx format](https://support.mozilla.org/en-US/questions/980804?esab=a&s=&r=2&as=s "when i click in website prit application it save as .aspx format.")
