@@ -9,6 +9,20 @@
 1. **Sat Dec 21 2013 05:12 AM** [how do i clear search history](https://support.mozilla.org/en-US/questions/981107?esab=a&s=&r=8&as=s "Searches in Google")
 1. **Sat Dec 21 2013 04:12 AM** [No any type (mp4/flv) eyc.of videos download now](https://support.mozilla.org/en-US/questions/981084?esab=a&s=&r=9&as=s "Some days before all type of videos download easily, But now no videos down..")
 1. **Thu Dec 19 2013 07:12 PM** [Why can't I download anything to my phone? I have tried everything](https://support.mozilla.org/en-US/questions/980970?esab=a&s=&r=0&as=s "I have tried everything from clearing my data to resetting my phone and now..")
+1. **Sat Dec 21 2013 01:12 AM** [Half black screen. Non responsive link. After upgrading to version 26 on Android 2.3.6](https://support.mozilla.org/en-US/questions/981096?esab=a&s=&r=10&as=s "Hello.")
+1. **Fri Dec 20 2013 11:12 PM** [How do I deleted a page in the TOP SITES?](https://support.mozilla.org/en-US/questions/981069?esab=a&s=&r=11&as=s "What detail. ?")
+1. **Fri Dec 20 2013 11:12 PM** [add on bar](https://support.mozilla.org/en-US/questions/981090?esab=a&s=&r=12&as=s "where is the add on bar for Firefox android")
+1. **Fri Dec 20 2013 10:12 PM** [how do I open a add on after it is installed?](https://support.mozilla.org/en-US/questions/981088?esab=a&s=&r=13&as=s "I need to know how to open a add in after it is installed")
+1. **Fri Dec 20 2013 09:12 PM** [How do I fix my problem?](https://support.mozilla.org/en-US/questions/981083?esab=a&s=&r=14&as=s "I can not get past the Firefox start page. If I type an address (or random ..")
+1. **Fri Dec 20 2013 06:12 PM** [Reading mode after update?](https://support.mozilla.org/en-US/questions/981075?esab=a&s=&r=15&as=s "Hello!
+So, I installed an update for Firefox, saved a few pages to Reading ..")
+1. **Fri Dec 20 2013 02:12 PM** [how do I delete sites in home page & history?](https://support.mozilla.org/en-US/questions/981058?esab=a&s=&r=16&as=s "I entered some web addresses today & I want to be rid of them.  how do I cl..")
+1. **Fri Dec 20 2013 10:12 AM** [How to change screen resolution in Firefox for Android?](https://support.mozilla.org/en-US/questions/981038?esab=a&s=&r=17&as=s "Hello
+I have a Galaxy Note 3 which it's display resolution is 1920x1080.
+If..")
+1. **Fri Dec 20 2013 09:12 AM** [How do I erase a saved site from my home page?](https://support.mozilla.org/en-US/questions/981024?esab=a&s=&r=18&as=s "I can't seem to erase one of the sites that was saved to my home page. I pe..")
+1. **Fri Dec 20 2013 06:12 AM** [Not able to download videos although flash video downloader is installed, kindly tell the reason](https://support.mozilla.org/en-US/questions/980985?esab=a&s=&r=19&as=s "Not able to download videos although flash video downloader is installed, k..")
+1. insert page 3 here
 1. **Thu Dec 19 2013 04:12 PM** [Unable to synch](https://support.mozilla.org/en-US/questions/980964?esab=a&s=&r=1&as=s "How do I find the Firefox synch button?")
 1. **Thu Dec 19 2013 11:12 AM** [logging in issues](https://support.mozilla.org/en-US/questions/980933?esab=a&s=&r=2&as=s "tryimg to log in. am told that password and username is ok. tried many time..")
 1. **Thu Dec 19 2013 10:12 AM** [Firefox 26 Android repeatedly crashes](https://support.mozilla.org/en-US/questions/980925?esab=a&s=&r=3&as=s "I am writing an app with lots of canvas and Dom manipulation with javascrip..")
