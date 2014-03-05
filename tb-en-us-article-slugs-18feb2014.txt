@@ -67,7 +67,7 @@ file-link
 filelink                                                    
 filelink-large-attachments                                  
 folder pane view switcher                                   
-global-search                                               
+global-search  "remove reference to Thunderbird 3"                                             
 glossary-terms-including-types-accounts                     
 home-page-explore-tb                                        
 home-page-quick-tb                                          
@@ -118,7 +118,7 @@ markup-and-templates
 master-password                                             
 master-password-requested-but-not-set                       
 master-password-requested-not-set                           
-menu-reference                                              
+menu-reference            funny square black character?!?                                  
 message-list-columns                                        
 message-tabs                                                
 migration-assistant                                         
@@ -150,14 +150,14 @@ problems-sending-and-receiving-messages
 profiles-tb                                                 
 quick-filter-toolbar                                        
 rebuilding-global-database                                  
-rebuilding-global-database-redirect-1                       
+rebuilding-global-database-redirect-1    references new in thunderbird 3: https://support.mozilla.org/en-US/kb/new-in-thunderbird-3#w_search new in thunderbird 3 should have search content moved out                   
 recalling-email                                             
-reply-above-or-below-message                                
+reply-above-or-below-message    "[en-US] Reply above or below message": document has 3 translations but is not localizable.                            
 reply-above-or-below-quoted-text                            
-safe-mode                                                   
+safe-mode                   Check the "Help with" box  needs to be changed to use showfor                                
 send-later-instead-of-send-button                           
-sending-and-receiving-emails                                
-sending-and-receiving-messages-merged                       
+sending-and-receiving-emails         "keyboard shortcut" link needs to point to thunderbird article                       
+sending-and-receiving-messages-merged    "keyboard shortcut" link needs to be fixed to point to the thunderbird article                   
 server-doesnt-use-encryption                                
 server-dont-use-encryption                                  
 signatures                                                  
