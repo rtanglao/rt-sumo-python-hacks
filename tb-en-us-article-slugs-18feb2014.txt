@@ -66,8 +66,8 @@ faq-thunderbird-and-windows-7
 file-link                                                   
 filelink                                                    
 filelink-large-attachments                                  
-folder pane view switcher                                   
-global-search  "remove reference to Thunderbird 3"                                             
+folder pane view switcher                                  
+global-search  "remove reference to Thunderbird 3"               
 glossary-terms-including-types-accounts                     
 home-page-explore-tb                                        
 home-page-quick-tb                                          
